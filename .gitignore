@@ -1,0 +1,8 @@
+# System files
+.DS_Store
+
+# Log files
+*.log
+
+# Environment variables
+.env
